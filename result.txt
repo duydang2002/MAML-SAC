@@ -1,0 +1,9 @@
+2nd
+
+Total reward: 18257 | Number of samples: 22544 | Accuracy = 80.98%
+       Estimated Correct Total   F1_score
+normal     10874    8865  9712  86.126494
+DoS         7062    6432  7458  88.595041
+Probe       2336    1860  2421  78.200547
+R2L         1869    1053  2753  45.564691
+U2R          403      47   200  15.588723
